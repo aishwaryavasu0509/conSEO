@@ -1,2 +1,2 @@
 # serverless-webapp
-# digital marketing platform that manages user digital contracts using aws lambda
+# digital marketing platform that helps in searching partners for buissness contracts
